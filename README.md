@@ -1,2 +1,3 @@
 # DataSturcutures
-Linked List,Stack,Queue Etc
+Basic C++ Codes For Linked List,Stack,Queue Etc
+
